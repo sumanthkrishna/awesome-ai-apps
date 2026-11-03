@@ -1,9 +1,9 @@
-# APT Enterprise AI Lab — M05: RAG and document grounding
+# APT Enterprise AI Lab — M06: Observability and evaluation
 
-**Cumulative learning:** 20/40 hours. **This branch inherits all earlier missions.**
+**Cumulative learning:** 24/40 hours. **This branch inherits all earlier missions.**
 
 ## Mission guide
-[M05 — RAG and document grounding](missions/M05.md)
+[M06 — Observability and evaluation](missions/M06.md)
 
 ## Mission progression
 - [M01 — Agent Foundations](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-01-agent-foundations)
@@ -11,5 +11,6 @@
 - [M03 — Session Isolation](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-03-session-isolation)
 - [M04 — FastAPI Agent Service](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-04-fastapi-agent-service)
 - [M05 — RAG and document grounding](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-05-rag-grounding)
+- [M06 — Observability and evaluation](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-06-observability-evaluation)
 
 Use **inherit → investigate → modify → break → fix → defend**. Reference samples are not pre-implemented missions. Record reproducible tests, architecture, fault evidence and a defensible decision. Work in learner branches.
