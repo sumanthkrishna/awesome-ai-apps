@@ -1,4 +1,4 @@
-> **APT Learning Academy · Enterprise AI Lab** — This branch is the **M02: Tools and function calling** curriculum checkpoint (7/40 hours). [Mission guide](training/missions/M02.md) · [Learning index](training/README.md). This is documentation for an assignment, not a completed implementation.
+> **APT Learning Academy · Enterprise AI Lab** — This branch is the **M03: Sessions, memory and isolation** curriculum checkpoint (11/40 hours). [Mission guide](training/missions/M03.md) · [Learning index](training/README.md). This is documentation for an assignment, not a completed implementation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/awesome_banner_dark.png">
