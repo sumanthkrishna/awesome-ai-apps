@@ -1,4 +1,4 @@
-> **APT Enterprise AI Lab** — M06: Observability and evaluation (24/40 hours). [Mission](training/missions/M06.md) · [Training index](training/README.md). This is a learning checkpoint, not a completed implementation.
+> **APT Enterprise AI Lab** — M07: Multi-agent orchestration (28/40 hours). [Mission](training/missions/M07.md) · [Training index](training/README.md). This is a learning checkpoint, not a completed implementation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/awesome_banner_dark.png">
