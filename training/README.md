@@ -1,17 +1,18 @@
-# APT Enterprise AI Lab — M07: Multi-agent orchestration
+# APT Enterprise AI Lab — Mission 08
 
-**Cumulative learning:** 28/40 hours. **This branch inherits all earlier missions.**
+**Current milestone: Enterprise security and guardrails · 32/40 hours.** This branch inherits all previous mission guides and examples.
 
-## Mission guide
-[M07 — Multi-agent orchestration](missions/M07.md)
-
-## Mission progression
-- [M01 — Agent Foundations](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-01-agent-foundations)
-- [M02 — Tools & Function Calling](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-02-tools-function-calling)
-- [M03 — Session Isolation](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-03-session-isolation)
-- [M04 — FastAPI Agent Service](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-04-fastapi-agent-service)
-- [M05 — RAG and document grounding](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-05-rag-grounding)
+## Progressive mission index
+- [M01 — Agent foundations](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-01-agent-foundations)
+- [M02 — Tools and functions](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-02-tools-function-calling)
+- [M03 — Session isolation](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-03-session-isolation)
+- [M04 — FastAPI service](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-04-fastapi-agent-service)
+- [M05 — RAG grounding](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-05-rag-grounding)
 - [M06 — Observability and evaluation](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-06-observability-evaluation)
-- [M07 — Multi-agent orchestration](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-07-multi-agent)
+- [M07 — Multi-agent](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-07-multi-agent)
+- [M08 — Enterprise security and guardrails](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-08-security-guardrails)
 
-Use **inherit → investigate → modify → break → fix → defend**. Reference samples are not pre-implemented missions. Record reproducible tests, architecture, fault evidence and a defensible decision. Work in learner branches.
+## Current assignment
+[Read M08 knowledge base](missions/M08.md). Start from the source example, inspect code and README, investigate, modify, break, fix and defend. Track reproducible tests, evidence and decisions. Sample applications have not been verified as running here and mission changes are learner assignments.
+
+**Training model:** inherit → investigate → modify → break → fix → defend. **Assessment:** investigation 25%, implementation 25%, tests 20%, security/operations 15%, defense 15%.
