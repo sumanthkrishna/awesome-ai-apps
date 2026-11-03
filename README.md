@@ -1,4 +1,4 @@
-> **APT Enterprise AI Lab** — M07: Multi-agent orchestration (28/40 hours). [Mission](training/missions/M07.md) · [Training index](training/README.md). This is a learning checkpoint, not a completed implementation.
+> **APT Enterprise AI Lab** · Mission 08: Enterprise security and guardrails · 32/40 hours. [Mission guide](training/missions/M08.md) | [Training index](training/README.md). Learning materials, not a completed code implementation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/awesome_banner_dark.png">
