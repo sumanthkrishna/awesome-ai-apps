@@ -1,23 +1,15 @@
-# APT Enterprise AI Lab — Mission 04
+# APT Enterprise AI Lab — M05: RAG and document grounding
 
-This is a **progressive training branch**, inheriting all completed mission documentation from prior branches. It does not assert the reference samples have been implemented or tested.
+**Cumulative learning:** 20/40 hours. **This branch inherits all earlier missions.**
 
-## Curriculum (40 hours)
-| Mission | Topic | Hours |
-|---|---|---:|
-| [M01](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-01-agent-foundations) | Agent foundations | 3 |
-| [M02](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-02-tools-function-calling) | Tools and function calling | 4 |
-| [M03](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-03-session-isolation) | Sessions, memory and isolation | 4 |
-| [M04](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-04-fastapi-agent-service) | Agent service APIs | 4 |
+## Mission guide
+[M05 — RAG and document grounding](missions/M05.md)
 
-**Current mission:** [M04 — Agent service APIs](missions/M04.md)
+## Mission progression
+- [M01 — Agent Foundations](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-01-agent-foundations)
+- [M02 — Tools & Function Calling](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-02-tools-function-calling)
+- [M03 — Session Isolation](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-03-session-isolation)
+- [M04 — FastAPI Agent Service](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-04-fastapi-agent-service)
+- [M05 — RAG and document grounding](https://github.com/sumanthkrishna/awesome-ai-apps/tree/training/mission-05-rag-grounding)
 
-## How to use
-1. Read this branch's [mission document](missions/M04.md).
-2. Browse the linked upstream reference sample and its local README.
-3. Follow inherit → investigate → modify → break → fix → defend.
-4. Commit your work to a learner-specific branch; do not use instructor mission branches as submission workspaces.
-
-**Cumulative hours:** 15 of 40. **Next mission:** M05.
-
-**Source code:** retained from the MIT-licensed upstream fork. The mission instructions are additional educational documentation; not code changes to the upstream examples.
+Use **inherit → investigate → modify → break → fix → defend**. Reference samples are not pre-implemented missions. Record reproducible tests, architecture, fault evidence and a defensible decision. Work in learner branches.
