@@ -1,4 +1,4 @@
-> **APT Enterprise AI Lab** · Mission 08: Enterprise security and guardrails · 32/40 hours. [Mission guide](training/missions/M08.md) | [Training index](training/README.md). Learning materials, not a completed code implementation.
+> **APT Enterprise AI Lab** · Mission 09: Deployment, CI/CD and monitoring · 36/40 hours. [Mission guide](training/missions/M09.md) | [Training index](training/README.md). Learning materials, not a completed code implementation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/awesome_banner_dark.png">
